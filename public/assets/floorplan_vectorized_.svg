@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1024"
+   height="887"
+   viewBox="0 0 1024 887"
+   version="1.1"
+   id="svg146"
+   sodipodi:docname="floorplan_vectorized_.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview146"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="2"
+     inkscape:cx="375.25"
+     inkscape:cy="655.25"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg146" />
+  <defs
+     id="defs1">
+    <style
+       type="text/css"
+       id="style1"><![CDATA[ .s { fill:none; stroke:#000; stroke-width:0.6; stroke-linecap:round; stroke-linejoin:round;} ]]></style>
+  </defs>
+  <path
+     class="s"
+     d="M 3.9242,9.9242 V 867.0758 H 1027.0758 V 9.9242 H 4.9243 Z"
+     id="path1" />
+  <path
+     class="s"
+     d="m 44,836 1,-1 h 28 l 1,1 v 13 h 4 l 1,-1 4,-1 6,-6 1,-2 v -3 l 1,-1 h 23 l 1,1 v 29 l -1,1 H 45 l -1,-1 v -28 z"
+     id="path3" />
+  <path
+     class="s"
+     d="m 114,760 1,1 v 73 l -1,1 H 45 l -1,-1 v -73 l 1,-1 z"
+     id="path5"
+     sodipodi:nodetypes="ccccccccc" />
+  <path
+     class="s"
+     d="m 920,143 h 57 l -1,722 -56,-1 V 199 l 18,-1 -3,-12 -4,-4 -11,-3 v -35 z"
+     id="path12" />
+  <path
+     class="s"
+     d="m 949,128 1,-1 h 5 l 4,2 5,5 1,4 1,1 -1,1 h -15 l -1,-1 v -10 z"
+     id="path13" />
+  <path
+     class="s"
+     d="m 940,110 1,-1 h 7 l 1,1 h 2 l 2,1 5,5 2,4 v 5 l -1,1 h -4 l -1,-1 h -6 l -1,1 v 13 l -1,1 h -5 l -1,-1 v -28 z"
+     id="path20" />
+  <path
+     class="s"
+     d="m 920,109 1,-1 h 17 l 1,1 v 30 l -1,1 h -17 l -1,-1 v -29 z"
+     id="path21" />
+  <path
+     class="s"
+     d="m 948,15 1,-1 h 27 l 1,1 v 124 l -1,1 h -8 l -1,-1 v -3 l -2,-4 -3,-3 v -8 l -1,-1 v -3 l -2,-2 v -1 l -7,-6 h -3 l -1,-1 h -7 l -1,-1 h -19 l -1,-1 V 79 l 1,-1 h 16 l -1,-2 v -4 l -2,-4 -5,-5 -4,-1 -1,-1 h -3 l -1,-1 V 40 l 1,-1 h 3 l 1,1 h 22 l 1,-1 V 16 Z"
+     id="path22" />
+  <path
+     class="s"
+     d="m 920,15 1,-1 h 25 l 1,1 v 22 l -1,1 h -25 l -1,-1 V 16 Z"
+     id="path23" />
+  <path
+     class="s"
+     d="m 46.0967,13 870,1 v 48 l 17,14 -17,1 v 104 l 18,12 -17,3 -1,25 1,643 L 44.595,863.001 46.0967,14 Z"
+     id="path24"
+     sodipodi:nodetypes="ccccccccccccc" />
+  <path
+     class="s"
+     d="m 412,391 -5,5 v 153 l 3,4 3,1 h 208 l 1,-1 h 4 l 3,-3 1,-3 V 398 l -1,-3 -5,-4 H 413 Z"
+     id="path57"
+     sodipodi:nodetypes="ccccccccccccccc" />
+  <path
+     class="s"
+     d="m 32,15 1,-1 h 13 l 1,1 v 20 l -1,1 v 4 l 1,1 v 69 l -1,1 H 33 l -1,-1 V 84 L 31,83 H 15 l -1,-1 v -2 l 1,-1 1,-4 5,-5 4,-2 h 7 V 16 Z"
+     id="path87"
+     sodipodi:nodetypes="cccccccccccccccccccccccc" />
+  <path
+     class="s"
+     d="m 1004,-1 h 6 v 15 l 13,1 -1,850 -44,-1 V 15 l 16,-1 2,-9 7,-6 z"
+     id="path93" />
+  <path
+     class="s"
+     d="m 893.5082,778.7218 0.057,0.058 -0.2334,63.9356 -3.6564,5.1261 -4.9353,1.8789 -110.8389,-0.01 0.019,-76.1427 115.9912,0.2265 c 1.4725,2.3629 1.9714,2.608 3.5969,4.9246 z"
+     id="path25-1-3"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.593938;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 659.5594,778.6794 -0.055,0.058 0.2232,63.9467 3.4964,5.1269 4.7194,1.8793 105.9886,-0.01 -0.018,-76.1559 -110.9155,0.2266 c -1.4081,2.3633 -1.8852,2.6085 -3.4396,4.9255 z"
+     id="path25-1-3-1"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.580848;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="805.27118"
+     y="690.29944"
+     id="text146"><tspan
+       sodipodi:role="line"
+       id="tspan146"
+       x="805.27118"
+       y="690.29944">SAEFA015</tspan></text>
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="690.51727"
+     y="690.83063"
+     id="text146-1"><tspan
+       sodipodi:role="line"
+       id="tspan146-2"
+       x="690.51727"
+       y="690.83063">SAESA015</tspan></text>
+  <path
+     class="s"
+     d="m 893.9001,683.3986 0.057,0.058 -0.2333,63.9356 -3.6565,5.1261 -4.9353,1.8789 -110.8389,-0.01 0.018,-76.1427 115.9911,0.2265 c 1.4726,2.3629 1.9715,2.608 3.5971,4.9246 z"
+     id="path25-1-3-8"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.593938;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 659.9513,683.3562 -0.055,0.058 0.2231,63.9467 3.4964,5.1269 4.7194,1.8793 105.9887,-0.01 -0.018,-76.1559 -110.9155,0.2266 c -1.4081,2.3633 -1.8852,2.6085 -3.4396,4.9255 z"
+     id="path25-1-3-1-7"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.580848;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="802.12762"
+     y="786.24854"
+     id="text146-4"><tspan
+       sodipodi:role="line"
+       id="tspan146-27"
+       x="802.12762"
+       y="786.24854">SAEFA018</tspan></text>
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="688.08081"
+     y="786.42621"
+     id="text146-1-7"><tspan
+       sodipodi:role="line"
+       id="tspan146-2-9"
+       x="688.08081"
+       y="786.42621">SAESA018</tspan></text>
+  <path
+     class="s"
+     d="m 893.2941,581.811 0.057,0.058 -0.2333,63.9356 -3.6564,5.1261 -4.9354,1.8789 -110.8388,-0.01 0.019,-76.1427 115.9911,0.2265 c 1.4725,2.3629 1.9714,2.608 3.597,4.9246 z"
+     id="path25-1-3-9"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.593938;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 659.3453,581.7686 -0.055,0.058 0.2232,63.9467 3.4964,5.1269 4.7194,1.8793 105.9887,-0.01 -0.018,-76.1559 -110.9156,0.2266 c -1.4081,2.3633 -1.8851,2.6085 -3.4395,4.9255 z"
+     id="path25-1-3-1-8"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.580848;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="801.87524"
+     y="588.49451"
+     id="text146-6"><tspan
+       sodipodi:role="line"
+       id="tspan146-5"
+       x="801.87524"
+       y="588.49451">SAEFA011</tspan></text>
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="687.47485"
+     y="588.3186"
+     id="text146-1-0"><tspan
+       sodipodi:role="line"
+       id="tspan146-2-2"
+       x="687.47485"
+       y="588.3186">SAESA011</tspan></text>
+  <path
+     class="s"
+     d="m 893.686,486.4878 0.057,0.058 -0.2333,63.9356 -3.6565,5.1261 -4.9353,1.8789 -110.8389,-0.01 0.019,-76.1427 115.9911,0.2265 c 1.4725,2.3629 1.9714,2.608 3.597,4.9246 z"
+     id="path25-1-3-8-8"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.593938;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 659.7372,486.4454 -0.055,0.058 0.2232,63.9467 3.4964,5.1269 4.7194,1.8793 105.9886,-0.01 -0.018,-76.1559 -110.9155,0.2266 c -1.4081,2.3633 -1.8851,2.6085 -3.4395,4.9255 z"
+     id="path25-1-3-1-7-6"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.580848;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="802.26709"
+     y="493.17126"
+     id="text146-4-0"><tspan
+       sodipodi:role="line"
+       id="tspan146-27-2"
+       x="802.26709"
+       y="493.17126">SAEFA009</tspan></text>
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="687.8667"
+     y="492.99536"
+     id="text146-1-7-4"><tspan
+       sodipodi:role="line"
+       id="tspan146-2-9-8"
+       x="687.8667"
+       y="492.99536">SAESA009</tspan></text>
+  <path
+     class="s"
+     d="m 894.2941,398.811 0.057,0.058 -0.2333,63.9356 -3.6564,5.1261 -4.9354,1.8789 -110.8388,-0.01 0.019,-76.1427 115.9911,0.2265 c 1.4725,2.3629 1.9714,2.608 3.597,4.9246 z"
+     id="path25-1-3-0"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.593938;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 660.3453,398.7686 -0.055,0.058 0.2232,63.9467 3.4964,5.1269 4.7194,1.8793 105.9887,-0.01 -0.018,-76.1559 -110.9156,0.2266 c -1.4081,2.3633 -1.8851,2.6085 -3.4395,4.9255 z"
+     id="SAEFA024"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.580848;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="802.87524"
+     y="405.49438"
+     id="text146-0"><tspan
+       sodipodi:role="line"
+       id="tspan146-0"
+       x="802.87524"
+       y="405.49438">SAEFA024</tspan></text>
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="688.47485"
+     y="405.31848"
+     id="text146-1-6"><tspan
+       sodipodi:role="line"
+       id="tspan146-2-1"
+       x="688.47485"
+       y="405.31848">SAESA024</tspan></text>
+  <path
+     class="s"
+     d="m 894.686,303.4878 0.057,0.058 -0.2333,63.9356 -3.6565,5.1261 -4.9353,1.8789 -110.8389,-0.01 0.019,-76.1427 115.9911,0.2265 c 1.4725,2.3629 1.9714,2.608 3.597,4.9246 z"
+     id="path25-1-3-8-3"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.593938;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 660.7372,303.4454 -0.055,0.058 0.2232,63.9467 3.4964,5.1269 4.7194,1.8793 105.9886,-0.01 -0.018,-76.1559 -110.9155,0.2266 c -1.4081,2.3633 -1.8851,2.6085 -3.4395,4.9255 z"
+     id="path25-1-3-1-7-8"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.580848;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="803.26709"
+     y="310.1712"
+     id="text146-4-9"><tspan
+       sodipodi:role="line"
+       id="tspan146-27-3"
+       x="803.26709"
+       y="310.1712">SAEFA028</tspan></text>
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="688.8667"
+     y="309.9953"
+     id="text146-1-7-44"><tspan
+       sodipodi:role="line"
+       id="tspan146-2-9-6"
+       x="688.8667"
+       y="309.9953">SAESA028</tspan></text>
+  <path
+     class="s"
+     d="m 896.2941,214.811 0.057,0.058 -0.2333,63.9356 -3.6564,5.1261 -4.9354,1.8789 -110.8388,-0.01 0.019,-76.1427 115.9911,0.2265 c 1.4725,2.3629 1.9714,2.608 3.597,4.9246 z"
+     id="path25-1-3-6"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.593938;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 662.3453,214.7686 -0.055,0.058 0.2232,63.9467 3.4964,5.1269 4.7194,1.8793 105.9887,-0.01 -0.018,-76.1559 -110.9156,0.2266 c -1.4081,2.3633 -1.8851,2.6085 -3.4395,4.9255 z"
+     id="path25-1-3-1-1"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.580848;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="804.87524"
+     y="221.49445"
+     id="text146-8"><tspan
+       sodipodi:role="line"
+       id="tspan146-4"
+       x="804.87524"
+       y="221.49445">SAEFA007</tspan></text>
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="690.47485"
+     y="221.31854"
+     id="text146-1-9"><tspan
+       sodipodi:role="line"
+       id="tspan146-2-6"
+       x="690.47485"
+       y="221.31854">SAESA007</tspan></text>
+  <path
+     class="s"
+     d="m 896.686,119.4878 0.057,0.058 -0.2333,63.9356 -3.6565,5.1261 -4.9353,1.8789 -110.8389,-0.01 0.019,-76.1427 115.9911,0.2265 c 1.4725,2.3629 1.9714,2.608 3.597,4.9246 z"
+     id="path25-1-3-8-37"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.593938;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 662.7372,119.4454 -0.055,0.058 0.2232,63.9467 3.4964,5.1269 4.7194,1.8793 105.9886,-0.01 -0.018,-76.1559 -110.9155,0.2266 c -1.4081,2.3633 -1.8851,2.6085 -3.4395,4.9255 z"
+     id="path25-1-3-1-7-88"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.580848;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="805.26709"
+     y="126.1712"
+     id="text146-4-2"><tspan
+       sodipodi:role="line"
+       id="tspan146-27-9"
+       x="805.26709"
+       y="126.1712">SAEFA004</tspan></text>
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="690.8667"
+     y="125.9953"
+     id="text146-1-7-1"><tspan
+       sodipodi:role="line"
+       id="tspan146-2-9-3"
+       x="690.8667"
+       y="125.9953">SAESA004</tspan></text>
+  <path
+     class="s"
+     d="m 895.2941,36.48782 0.057,0.058 -0.2333,63.9356 -3.6565,5.1261 -4.9353,1.8789 -110.8388,-0.01 0.018,-76.1427 115.9911,0.2265 c 1.4725,2.3629 1.9714,2.608 3.597,4.9246 z"
+     id="path25-1-3-8-37-8"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.593938;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 661.3453,36.44542 -0.055,0.058 0.2232,63.9467 3.4964,5.1269 4.7194,1.8793 105.9887,-0.01 -0.018,-76.1559 -110.9156,0.2266 c -1.4081,2.3633 -1.8851,2.6085 -3.4395,4.9255 z"
+     id="path25-1-3-1-7-88-4"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.580848;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="803.87524"
+     y="43.171204"
+     id="text146-4-2-0"><tspan
+       sodipodi:role="line"
+       id="tspan146-27-9-7"
+       x="803.87524"
+       y="43.171204">SAEFA003</tspan></text>
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="689.47485"
+     y="42.9953"
+     id="text146-1-7-1-6"><tspan
+       sodipodi:role="line"
+       id="tspan146-2-9-3-3"
+       x="689.47485"
+       y="42.9953">SAESA003</tspan></text>
+  <path
+     class="s"
+     d="m 635.2941,210.811 0.057,0.058 -0.2333,63.9356 -3.6564,5.1261 -4.9354,1.8789 -219.0011,0.36728 -6.5864,-7.47266 -0.2477,-64.50504 3.5626,-4.24663 227.4434,-0.0691 c 1.4725,2.3629 1.9714,2.608 3.597,4.9246 z"
+     id="path25-1-3-6-5"
+     sodipodi:nodetypes="cccccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.593938;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 401.3453,300.7686 -0.055,0.058 0.2232,63.9467 3.4964,5.1269 4.7194,1.8793 c 72.1873,-0.5651 -34.1515,0.5101 217.1507,-0.055 l 4.4144,-1.6795 4.0193,-5.4317 0.1903,-63.50935 -3.4702,-4.9857 -227.2491,-0.2781 c -1.4081,2.3633 -1.8851,2.6085 -3.4395,4.9255 z"
+     id="path25-1-3-1-1-4"
+     sodipodi:nodetypes="ccccccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.580848;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 635.686,117.4878 0.057,0.058 -0.2333,63.9356 -3.6565,5.1261 -4.9353,1.8789 -110.8389,-0.01 0.019,-76.1427 115.9911,0.2265 c 1.4725,2.3629 1.9714,2.608 3.597,4.9246 z"
+     id="path25-1-3-8-37-3"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.593938;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 401.7372,117.4454 -0.055,0.058 0.2232,63.9467 3.4964,5.1269 4.7194,1.8793 105.9886,-0.01 -0.018,-76.1559 -110.9155,0.2266 c -1.4081,2.3633 -1.8851,2.6085 -3.4395,4.9255 z"
+     id="path25-1-3-1-7-88-7"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.580848;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="544.26709"
+     y="124.17108"
+     id="text146-4-2-2"><tspan
+       sodipodi:role="line"
+       id="tspan146-27-9-6"
+       x="544.26709"
+       y="124.17108">SAEFA037</tspan></text>
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="429.8667"
+     y="123.99542"
+     id="text146-1-7-1-0"><tspan
+       sodipodi:role="line"
+       id="tspan146-2-9-3-1"
+       x="429.8667"
+       y="123.99542">SAESA037</tspan></text>
+  <path
+     class="s"
+     d="m 634.2941,32.48782 0.057,0.058 -0.2333,63.93558 -3.6565,5.1261 -4.9353,1.8789 -110.8388,-0.01 0.018,-76.14268 115.9911,0.2265 c 1.4725,2.3629 1.9714,2.608 3.597,4.9246 z"
+     id="path25-1-3-8-37-8-6"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.593938;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 400.3453,32.44542 -0.055,0.058 0.2232,63.94668 3.4964,5.1269 4.7194,1.8793 105.9887,-0.01 -0.018,-76.15588 -110.9156,0.2266 c -1.4081,2.3633 -1.8851,2.6085 -3.4395,4.9255 z"
+     id="path25-1-3-1-7-88-4-5"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.580848;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="542.87524"
+     y="39.171204"
+     id="text146-4-2-0-7"><tspan
+       sodipodi:role="line"
+       id="tspan146-27-9-7-5"
+       x="542.87524"
+       y="39.171204">SAEFA033</tspan></text>
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="428.47485"
+     y="38.9953"
+     id="text146-1-7-1-6-4"><tspan
+       sodipodi:role="line"
+       id="tspan146-2-9-3-3-1"
+       x="428.47485"
+       y="38.9953">SAESA033</tspan></text>
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="487.82898"
+     y="310.89221"
+     id="text147"><tspan
+       sodipodi:role="line"
+       id="tspan147"
+       x="487.82898"
+       y="310.89221">SAECS004</tspan></text>
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="487.43237"
+     y="220.42267"
+     id="text147-0"><tspan
+       sodipodi:role="line"
+       id="tspan147-1"
+       x="487.43237"
+       y="220.42267">SAECS006</tspan></text>
+  <path
+     class="s"
+     d="m 631.2941,580.4878 0.057,0.058 -0.2333,63.9356 -3.6564,5.1261 -4.9354,1.8789 -110.8388,-0.01 0.019,-76.1427 115.9911,0.2265 c 1.4725,2.3629 1.9714,2.608 3.597,4.9246 z"
+     id="SAEFA040"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.593938;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 397.3453,580.4454 -0.055,0.058 0.2232,63.9467 3.4964,5.1269 4.7194,1.8793 105.9887,-0.01 -0.018,-76.1559 -110.9156,0.2266 c -1.4081,2.3633 -1.8851,2.6085 -3.4395,4.9255 z"
+     id="path2"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.580848;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 629.2396,680.5211 0.073,0.058 -0.2981,63.8708 -4.6719,5.121 -6.306,1.877 -141.6211,-0.01 0.024,-76.0657 148.2043,0.2263 c 1.8815,2.3605 2.5189,2.6054 4.5959,4.9196 z"
+     id=""
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.671026;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 395.2844,680.4064 -0.039,0.058 0.1591,64.0224 2.4916,5.133 3.3631,1.8815 75.5303,-0.01 -0.013,-76.2461 -79.0413,0.2269 c -1.0034,2.3661 -1.3434,2.6115 -2.4511,4.9313 z"
+     id="path4"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.490626;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="539.87524"
+     y="587.17126"
+     id="text146-6-1"><tspan
+       sodipodi:role="line"
+       id="tspan146-5-7"
+       x="539.87524"
+       y="587.17126">SAEFA040</tspan></text>
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="425.47485"
+     y="586.99536"
+     id="text146-1-0-7"><tspan
+       sodipodi:role="line"
+       id="tspan146-2-2-7"
+       x="425.47485"
+       y="586.99536">SAESA040</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:8px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:50.3477;fill:none;stroke:#000000"
+     x="479.17114"
+     y="695.4967"
+     id="text147-8"><tspan
+       x="479.17114"
+       y="695.4967"
+       id="tspan8">SAMCL010</tspan></text>
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="554.96484"
+     y="696.15039"
+     id="text147-8-2"><tspan
+       sodipodi:role="line"
+       id="tspan147-18-7"
+       x="554.96484"
+       y="696.15039">SASLS001</tspan></text>
+  <path
+     class="s"
+     d="m 397.2561,777.0814 -0.055,0.058 0.2232,63.9467 3.4964,5.1269 4.7194,1.8793 c 72.1873,-0.5651 -34.1515,0.5101 217.1507,-0.055 l 4.4144,-1.6795 4.0193,-5.4317 0.1903,-63.5094 -3.4702,-4.9857 -227.2491,-0.2781 c -1.4081,2.3633 -1.8851,2.6085 -3.4395,4.9255 z"
+     id="path6"
+     sodipodi:nodetypes="ccccccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.580848;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="402.58398"
+     y="698.43079"
+     id="text148"><tspan
+       sodipodi:role="line"
+       id="tspan148"
+       x="402.58398"
+       y="698.43079">SACSA026</tspan></text>
+  <path
+     class="s"
+     d="m 134.3453,777.2189 -0.055,0.058 0.2232,63.9467 3.4964,5.1269 4.7194,1.8793 c 72.1873,-0.5651 -34.1515,0.5101 217.1507,-0.055 l 4.4144,-1.6795 4.0193,-5.4317 0.1903,-63.5094 -3.4702,-4.9857 -227.2491,-0.2781 c -1.4081,2.3633 -1.8851,2.6085 -3.4395,4.9255 z"
+     id="path25-1-3-1-1-4-6-3"
+     sodipodi:nodetypes="ccccccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.580848;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 368.2941,679.4878 0.057,0.058 -0.2333,63.9356 -3.6565,5.1261 -4.9353,1.8789 -110.8388,-0.01 0.018,-76.1427 115.9911,0.2265 c 1.4725,2.3629 1.9714,2.608 3.597,4.9246 z"
+     id="path25-1-3-8-1"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.593938;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 134.3453,679.4454 -0.055,0.058 0.2232,63.9467 3.4964,5.1269 4.7194,1.8793 105.9887,-0.01 -0.018,-76.1559 -110.9156,0.2266 c -1.4081,2.3633 -1.8851,2.6085 -3.4395,4.9255 z"
+     id="path25-1-3-1-7-89"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.580848;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="276.87524"
+     y="686.17126"
+     id="text146-4-8"><tspan
+       id="tspan146-27-4"
+       x="276.87524"
+       y="686.17126"
+       sodipodi:role="line">SAOFA002</tspan></text>
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="162.47485"
+     y="685.99536"
+     id="text146-1-7-14"><tspan
+       sodipodi:role="line"
+       id="tspan146-2-9-39"
+       x="162.47485"
+       y="685.99536">SAOSA002</tspan></text>
+  <path
+     class="s"
+     d="m 376.2941,212.811 0.057,0.058 -0.2333,63.9356 -3.6564,5.1261 -4.9354,1.8789 -110.8388,-0.01 0.019,-76.1427 115.9911,0.2265 c 1.4725,2.3629 1.9714,2.608 3.597,4.9246 z"
+     id="path25-1-3-6-4"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.593938;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 142.3453,212.7686 -0.055,0.058 0.2232,63.9467 3.4964,5.1269 4.7194,1.8793 105.9887,-0.01 -0.018,-76.1559 -110.9156,0.2266 c -1.4081,2.3633 -1.8851,2.6085 -3.4395,4.9255 z"
+     id="path25-1-3-1-1-9"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.580848;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="284.87524"
+     y="219.49445"
+     id="text146-8-9"><tspan
+       sodipodi:role="line"
+       id="tspan146-4-2"
+       x="284.87524"
+       y="219.49445">SAMCL002</tspan></text>
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="170.47485"
+     y="219.31854"
+     id="text146-1-9-5"><tspan
+       sodipodi:role="line"
+       id="tspan146-2-6-5"
+       x="170.47485"
+       y="219.31854">SAMCL003</tspan></text>
+  <path
+     class="s"
+     d="m 376.7664,117.43615 0.036,0.0581 -0.1486,64.03591 -2.3298,5.13414 -3.1445,1.88185 -70.6215,-0.01 0.012,-76.26216 73.9043,0.22686 c 0.9382,2.36661 1.2561,2.61209 2.2918,4.93232 z"
+     id="path25-1-3-8-37-33"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.474465;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 142.6705,117.40255 -0.038,0.0581 0.1532,64.02993 2.4017,5.13357 3.2418,1.88174 72.8044,-0.01 -0.012,-76.25502 -76.1887,0.22689 c -0.9672,2.36638 -1.2949,2.61189 -2.3626,4.93191 z"
+     id="path25-1-3-1-7-88-3"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.481719;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 221.2287,112.23369 c -0.1334,23.59923 0.2898,52.6594 0.037,76.27608 26.756,0.0653 53.0759,0.0248 79.2471,0.0212 l 0.051,-76.25502 c 0,0 -76.6339,0.0249 -79.3353,-0.0422 z"
+     id="path25-1-3-1-7-88-3-2"
+     sodipodi:nodetypes="cccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.481719;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 380.8999,19.22452 0.057,0.058 -0.2333,63.9356 -3.6565,5.1261 -4.9353,1.8789 -219.0011,0.36728 -6.5864,-7.47266 -0.2477,-64.50504 3.5626,-4.24663 227.4434,-0.0691 c 1.4725,2.3629 1.9714,2.608 3.597,4.9246 z"
+     id="path25-1-3-6-5-8"
+     sodipodi:nodetypes="cccccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.593938;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 375.2132,301.3264 0.031,0.058 -0.1258,64.0679 -1.971,5.1366 -2.6604,1.8828 -59.7488,-0.01 0.01,-76.3001 62.5262,0.2269 c 0.7937,2.3679 1.0627,2.6134 1.939,4.9349 z"
+     id="path25-1-3-8-37-33-2"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.436524;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 140.9984,301.1754 -0.022,0.058 0.091,64.1231 1.4211,5.141 1.9182,1.8846 43.0783,-0.01 -0.01,-76.3659 -45.0808,0.2273 c -0.5723,2.3698 -0.7662,2.6155 -1.398,4.939 z"
+     id="path25-1-3-1-7-88-3-8"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.370818;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 187.475,295.9911 c -0.069,23.6408 0.1502,52.7523 0.019,76.4106 13.8696,0.065 27.5132,0.025 41.0797,0.021 l 0.026,-76.3896 c 0,0 -39.7251,0.025 -41.1254,-0.042 z"
+     id="path25-1-3-1-7-88-3-2-9"
+     sodipodi:nodetypes="cccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.347135;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 228.5646,296.0326 c -0.069,23.6408 0.1502,52.7523 0.019,76.4106 13.8696,0.065 27.5132,0.025 41.0797,0.021 l 0.026,-76.3896 c 0,0 -39.7251,0.025 -41.1254,-0.042 z"
+     id="path25-1-3-1-7-88-3-2-9-8"
+     sodipodi:nodetypes="cccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.347135;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 269.6603,296.0766 c -0.069,23.6408 0.1502,52.7523 0.019,76.4106 13.8696,0.065 27.5132,0.025 41.0797,0.021 l 0.026,-76.3896 c 0,0 -39.7251,0.025 -41.1254,-0.042 z"
+     id="path25-1-3-1-7-88-3-2-9-2"
+     sodipodi:nodetypes="cccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.347135;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:66.7832;display:inline;fill:none;stroke:#000000"
+     x="312.21484"
+     y="1072.9062"
+     id="text146-8-9-5"
+     transform="matrix(0.85664077,0,0,1.0078009,52.0986,-770.01241)"><tspan
+       x="312.21484"
+       y="1072.9062"
+       id="tspan9">SAMCL001</tspan></text>
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:66.7832;display:inline;fill:none;stroke:#000000"
+     x="312.21484"
+     y="1072.9062"
+     id="text146-8-9-5-6"
+     transform="matrix(-0.00227601,-0.98710429,1.0005807,-0.00172765,-779.7336,675.0512)"><tspan
+       x="312.21484"
+       y="1072.9062"
+       id="tspan10">SAKNL003</tspan></text>
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:66.7832;display:inline;fill:none;stroke:#000000"
+     x="312.21484"
+     y="1072.9062"
+     id="text146-8-9-5-6-9"
+     transform="matrix(-0.00227693,-0.97933698,1.0009844,-0.00171405,-820.13402,672.6492)"><tspan
+       x="312.21484"
+       y="1072.9062"
+       id="tspan11">SAKNL002</tspan></text>
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:66.7832;display:inline;fill:none;stroke:#000000"
+     x="312.21484"
+     y="1072.9062"
+     id="text146-8-9-5-6-6"
+     transform="matrix(-0.00227809,-0.96997928,1.001493,-0.00169768,-862.60608,667.9017)"><tspan
+       x="312.21484"
+       y="1072.9062"
+       id="tspan12">SAKNL001</tspan></text>
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:66.7832;display:inline;fill:none;stroke:#000000"
+     x="312.21484"
+     y="1072.9062"
+     id="text146-8-9-5-6-6-1"
+     transform="matrix(-0.0022839,-0.92137603,1.0040473,-0.00161261,-908.14975,652.3202)"><tspan
+       x="312.21484"
+       y="1072.9062"
+       id="tspan13">SAMPM002
+</tspan></text>
+  <path
+     class="s"
+     d="m 374.3745,390.4432 0.036,0.058 -0.1486,64.036 -2.3298,5.1341 -3.1445,1.8818 -70.6215,-0.01 0.012,-76.2621 73.9043,0.2268 c 0.9382,2.3667 1.2561,2.6121 2.2918,4.9324 z"
+     id="path25-1-3-8-37-33-0"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.474465;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 140.2786,390.4096 -0.038,0.058 0.1533,64.03 2.4017,5.1335 3.2417,1.8818 72.8044,-0.01 -0.012,-76.255 -76.1887,0.2269 c -0.9672,2.3663 -1.2949,2.6118 -2.3626,4.9319 z"
+     id="path25-1-3-1-7-88-3-3"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.481719;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 218.8369,385.2408 c -0.1335,23.5992 0.2897,52.6594 0.037,76.2761 26.7559,0.065 53.0758,0.025 79.247,0.021 l 0.051,-76.2551 c 0,0 -76.6338,0.025 -79.3353,-0.042 z"
+     id="path25-1-3-1-7-88-3-2-91"
+     sodipodi:nodetypes="cccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.481719;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 373.3745,581.4432 0.036,0.058 -0.1486,64.036 -2.3298,5.1341 -3.1445,1.8818 -70.6215,-0.01 0.012,-76.2621 73.9043,0.2268 c 0.9382,2.3667 1.2561,2.6121 2.2918,4.9324 z"
+     id="path25-1-3-8-37-33-9"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.474465;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 139.2786,581.4096 -0.038,0.058 0.1533,64.03 2.4017,5.1335 3.2417,1.8818 72.8044,-0.01 -0.012,-76.255 -76.1887,0.2269 c -0.9672,2.3663 -1.2949,2.6118 -2.3626,4.9319 z"
+     id="path25-1-3-1-7-88-3-5"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.481719;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 217.8369,576.2408 c -0.1335,23.5992 0.2897,52.6594 0.037,76.2761 26.7559,0.065 53.0758,0.025 79.247,0.021 l 0.051,-76.2551 c 0,0 -76.6338,0.025 -79.3353,-0.042 z"
+     id="path25-1-3-1-7-88-3-2-3"
+     sodipodi:nodetypes="cccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.481719;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 373.3745,484.4433 0.036,0.058 -0.1486,64.036 -2.3298,5.1341 -3.1445,1.8818 -70.6215,-0.01 0.012,-76.2621 73.9043,0.2268 c 0.9382,2.3667 1.2561,2.6121 2.2918,4.9324 z"
+     id="path25-1-3-8-37-33-0-2"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.474465;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 139.9857,484.4097 -0.038,0.058 0.1533,64.03 2.4017,5.1335 3.2418,1.8818 72.8043,-0.01 -0.012,-76.255 -76.1887,0.2269 c -0.9672,2.3663 -1.2949,2.6118 -2.3626,4.9319 z"
+     id="path25-1-3-1-7-88-3-3-5"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.481719;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 217.8369,479.2409 c -0.1335,23.5992 0.2897,52.6594 0.037,76.2761 26.7559,0.065 53.0758,0.025 79.247,0.021 l 0.051,-76.2551 c 0,0 -76.6338,0.025 -79.3353,-0.042 z"
+     id="path25-1-3-1-7-88-3-2-91-8"
+     sodipodi:nodetypes="cccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.481719;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="145.71484"
+     y="513.40039"
+     id="text146-6-1-7"><tspan
+       sodipodi:role="line"
+       id="tspan146-5-7-2"
+       x="145.71484"
+       y="513.40039">SAHFA004</tspan></text>
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="149.68481"
+     y="419.65149"
+     id="text149"><tspan
+       sodipodi:role="line"
+       id="tspan149"
+       x="149.68481"
+       y="419.65149">SAHSB001</tspan></text>
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="227.17065"
+     y="156.40625"
+     id="text146-1-9-5-4"><tspan
+       sodipodi:role="line"
+       id="tspan146-2-6-5-1"
+       x="227.17065"
+       y="156.40625">SQMAN003</tspan></text>
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="225.13647"
+     y="601.06458"
+     id="text146-6-1-7-6"><tspan
+       sodipodi:role="line"
+       id="tspan146-5-7-2-3"
+       x="225.13647"
+       y="601.06458">SAPAK001</tspan></text>
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="145.45691"
+     y="601.61938"
+     id="text154"><tspan
+       sodipodi:role="line"
+       id="tspan154"
+       x="145.45691"
+       y="601.61938">SQMAN002</tspan></text>
+  <path
+     class="s"
+     d="m 336.1863,14.67243 c -0.069,23.33227 0.1502,52.06382 0.019,75.41336 13.8704,0.0641 22.3897,0.0247 35.957,0.0208 l 5.3088,-1.26616 3.5054,-6.0279 -0.082,-63.42849 -3.643,-5.23256 c 0,0 -39.6648,0.5872 -41.0652,0.5211 z"
+     id="path25-1-3-1-7-88-3-2-9-2-5"
+     sodipodi:nodetypes="ccccccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.344872;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:66.7832;display:inline;fill:none;stroke:#000000"
+     x="312.21484"
+     y="1072.9062"
+     id="text146-8-9-5-6-8"
+     transform="matrix(-0.0022912,-0.86346852,1.0072552,-0.00151126,-717.39548,354.5833)"
+     inkscape:export-filename="text146-8-9-5-6-8.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><tspan
+       x="312.21484"
+       y="1072.9062"
+       id="tspan14">SAMPM001</tspan></text>
+  <path
+     class="s"
+     d="m 476.75245,675.72824 c -0.12092,23.3944 0.26242,52.20241 0.0335,75.61416 24.23588,0.0644 48.07681,0.0248 71.78306,0.0208 l 0.0462,-75.59335 c 0,0 -69.41598,0.0248 -71.86303,-0.0416 z"
+     id="path25-1-3-1-7-88-3-2-3-2"
+     sodipodi:nodetypes="cccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.456479;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="s"
+     d="m 473.26202,771.73629 c -0.12847,23.60203 0.27878,52.66571 0.0356,76.28523 25.74756,0.065 51.07556,0.025 76.26047,0.021 l 0.049,-76.26423 c 0,0 -73.74575,0.025 -76.34543,-0.042 z"
+     id="path25-1-3-1-7-88-3-2-3-2-1"
+     sodipodi:nodetypes="cccccc"
+     style="fill:none;stroke:#000000;stroke-width:0.472584;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000"
+     x="559.14844"
+     y="788.04492"
+     id="text147-8-2-4"><tspan
+       sodipodi:role="line"
+       id="tspan147-18-7-2"
+       x="559.14844"
+       y="788.04492">SASLS002</tspan></text>
+  <text
+     xml:space="preserve"
+     style="writing-mode:lr-tb;direction:ltr;fill:#000000"
+     x="492.85342"
+     y="468.8118"
+     id="text7"><tspan
+       sodipodi:role="line"
+       id="tspan7"
+       x="492.85342"
+       y="468.8118" /></text>
+</svg>

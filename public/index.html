@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Brembo Monitoring Závodu</title>
+  <link rel="stylesheet" href="css/global.css">
+  <link rel="stylesheet" href="css/cards.css">
+  <link rel="stylesheet" href="css/map.css">
+</head>
+<body>
+
+  <!-- ÚROVEŇ 1: PŘEHLED ODDĚLENÍ -->
+  <section id="view-categories">
+    <header>
+      <h1>Monitoring</h1>
+    </header>
+    <main>
+      <div id="categories-grid" class="grid-container">
+        <!-- Zde se vygenerují složky -->
+      </div>
+    </main>
+  </section>
+
+  <!-- ÚROVEŇ 2: LINKY V ODDĚLENÍ + MAPA -->
+  <section id="view-lines" class="hidden">
+    <header>
+      <div class="detail-nav">
+        <button id="btn-back-to-categories" class="btn-back">← Zpět na oddělení</button>
+        <h1 id="lines-category-title">Název oddělení</h1>
+      </div>
+    </header>
+    <main>
+      <!-- ZDE SE ZOBRAZÍ TVÁ SVG MAPA -->
+      <div id="map-container"></div>
+      
+      <div id="lines-grid" class="grid-container">
+        <!-- Zde se vygenerují linky -->
+      </div>
+    </main>
+  </section>
+
+  <!-- ÚROVEŇ 3: DETAIL KONKRÉTNÍ LINKY -->
+  <section id="view-detail" class="hidden">
+    <header>
+      <div class="detail-nav">
+        <button id="btn-back-to-lines" class="btn-back">← Zpět na linky</button>
+        <h1 id="detail-line-name">Název linky</h1>
+        <span id="detail-line-badge" class="status-badge" style="margin-left: 15px;">Stav</span>
+      </div>
+    </header>
+    <main>
+      <h3>Stanice (úseky) na lince</h3>
+      <div id="stations-grid" class="grid-container">
+        <!-- Zde se vygenerují stanice -->
+      </div>
+    </main>
+  </section>
+
+<!-- 4. ÚROVEŇ: Detail konkrétní stanice (např. ST020) -->
+    <div id="view-station-detail" class="hidden">
+      <div class="detail-nav" style="margin-bottom: 25px;">
+        <button id="btn-back-to-line-detail" class="btn-back">← Zpět na stanice</button>
+        <h2 id="detail-station-title" style="display: inline-block;">Detail stanice</h2>
+      </div>
+      
+      <!-- Zde se vygenerují pod-procesy -->
+      <div id="subprocesses-grid" class="grid-container"></div>
+    </div>
+
+  <script src="js/fakeApp.js"></script>
+</body>
+</html>

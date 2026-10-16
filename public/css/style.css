@@ -1,0 +1,142 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: #0f172a; /* Tmavě modré pozadí Brembo */
+  color: #f8fafc;
+}
+
+header {
+  background-color: #1e293b;
+  padding: 20px;
+  border-bottom: 1px solid #334155;
+}
+
+main {
+  padding: 30px;
+}
+
+.hidden {
+  display: none !important;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+  margin-top: 20px;
+}
+
+/* --- KARTIČKY --- */
+.category-card, .line-card {
+  background-color: #1e293b;
+  border-radius: 8px;
+  padding: 20px;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+  border-left: 5px solid #334155; /* Výchozí barva okraje */
+}
+
+.category-card:hover, .line-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3);
+}
+
+.line-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.line-name {
+  font-weight: bold;
+  font-size: 1.1rem;
+  word-break: break-all;
+}
+
+.action-hint {
+  color: #94a3b8;
+  font-size: 0.9rem;
+  margin-top: 15px;
+}
+
+/* --- STAVY A BARVY (Pro kartičky) --- */
+.active-border { border-left-color: #22c55e; }
+.paused-border { border-left-color: #f59e0b; }
+.stopped-border { border-left-color: #ef4444; }
+
+.status-badge {
+  padding: 5px 10px;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.status-badge.active { background-color: rgba(34, 197, 94, 0.2); color: #4ade80; }
+.status-badge.paused { background-color: rgba(245, 158, 11, 0.2); color: #fbbf24; }
+.status-badge.stopped { background-color: #ef4444; color: #ffffff; }
+
+/* --- TLAČÍTKA --- */
+.detail-nav {
+  display: flex;
+  align-items: center;
+}
+
+.btn-back {
+  background: transparent;
+  color: #38bdf8;
+  border: 1px solid #38bdf8;
+  padding: 8px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 20px;
+  transition: all 0.2s;
+}
+
+.btn-back:hover {
+  background: #38bdf8;
+  color: #0f172a;
+}
+
+/* --- SVG MAPA --- */
+#map-container {
+  width: 100%;
+  max-height: 60vh;
+  overflow: auto;
+  margin-bottom: 30px;
+  background-color: #1e293b;
+  border-radius: 8px;
+  padding: 20px;
+  border: 1px solid #334155;
+  text-align: center;
+}
+
+#map-container svg {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Obarvování strojů v mapě */
+.svg-stroj rect, .svg-stroj path {
+  fill: #334155; /* Výchozí šedá */
+  transition: fill 0.3s ease, filter 0.3s;
+}
+
+.svg-stroj {
+  cursor: pointer;
+}
+
+.svg-stroj:hover rect, .svg-stroj:hover path {
+  filter: brightness(1.3);
+}
+
+/* Tyto třídy přidává JavaScript podle stavu z DB */
+.svg-stroj.active rect { fill: #22c55e !important; }
+.svg-stroj.paused rect { fill: #f59e0b !important; }
+.svg-stroj.stopped rect { fill: #ef4444 !important; }

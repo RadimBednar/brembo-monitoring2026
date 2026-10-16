@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 1000 900" style="max-height: 65vh; width: 100%; object-fit: contain;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    .svg-stroj rect { fill: rgba(226, 232, 240, 0.85); stroke: #334155; stroke-width: 2; transition: all 0.3s; rx: 4px; cursor: pointer; }
+    .svg-stroj text { fill: #0f172a; font-family: sans-serif; font-size: 13px; font-weight: bold; pointer-events: none; }
+    .svg-stroj tspan { font-size: 11px; font-weight: normal; }
+    .svg-stroj:hover rect { filter: brightness(0.9); stroke: #000; }
+  </style>
+
+  <!-- BÍLÝ PODKLAD -->
+  <rect width="1000" height="900" fill="#ffffff" />
+
+  <!-- PŮDORYS HALY -->
+  <image href="/assets/machining-bg.png" xlink:href="/assets/machining-bg.png" x="0" y="0" width="1000" height="900" preserveAspectRatio="none" opacity="0.85" />
+
+  <!-- LEVÝ HORNÍ ROH: DBM stroje -->
+  <g id="DBM26" class="svg-stroj">
+    <rect x="250" y="80" width="80" height="50" />
+    <text x="290" y="110" text-anchor="middle" dominant-baseline="central">DBM 26</text>
+  </g>
+  <g id="DBM30" class="svg-stroj">
+    <rect x="250" y="140" width="80" height="50" />
+    <text x="290" y="170" text-anchor="middle" dominant-baseline="central">DBM 30</text>
+  </g>
+  <g id="DBM1" class="svg-stroj">
+    <rect x="340" y="110" width="60" height="60" />
+    <text x="370" y="140" text-anchor="middle" dominant-baseline="central">DBM 1</text>
+  </g>
+
+  <!-- HORNÍ STŘED -->
+  <g id="OXIDATION1" class="svg-stroj">
+    <rect x="420" y="50" width="220" height="90" />
+    <text x="530" y="95" text-anchor="middle" dominant-baseline="central">OXIDATION 1</text>
+  </g>
+  <g id="MANUAL_CLEANING" class="svg-stroj">
+    <rect x="490" y="220" width="120" height="70" />
+    <text x="550" y="255" text-anchor="middle" dominant-baseline="central">Manual cleaning</text>
+  </g>
+  <g id="SW113" class="svg-stroj">
+    <rect x="340" y="240" width="70" height="60" />
+    <text x="375" y="270" text-anchor="middle" dominant-baseline="central">SW 113</text>
+  </g>
+
+  <!-- STŘED LEVÁ (SW a DBM řada) -->
+  <g id="SW62" class="svg-stroj">
+    <rect x="150" y="420" width="50" height="60" />
+    <text x="175" y="450" text-anchor="middle" dominant-baseline="central">SW 62</text>
+  </g>
+  <g id="SW59" class="svg-stroj">
+    <rect x="210" y="420" width="50" height="60" />
+    <text x="235" y="450" text-anchor="middle" dominant-baseline="central">SW 59</text>
+  </g>
+  <g id="DBM8" class="svg-stroj">
+    <rect x="270" y="420" width="50" height="60" />
+    <text x="295" y="450" text-anchor="middle" dominant-baseline="central">DBM 8</text>
+  </g>
+  <g id="DBM23" class="svg-stroj">
+    <rect x="330" y="430" width="70" height="50" />
+    <text x="365" y="455" text-anchor="middle" dominant-baseline="central">DBM 23</text>
+  </g>
+  <g id="DBM9" class="svg-stroj">
+    <rect x="190" y="590" width="60" height="60" />
+    <text x="220" y="620" text-anchor="middle" dominant-baseline="central">DBM 9</text>
+  </g>
+  <g id="DBM4" class="svg-stroj">
+    <rect x="260" y="590" width="60" height="60" />
+    <text x="290" y="620" text-anchor="middle" dominant-baseline="central">DBM 4</text>
+  </g>
+
+  <!-- CENTRÁLNÍ BLOK -->
+  <g id="EMISSA_69" class="svg-stroj">
+    <rect x="340" y="500" width="110" height="60" />
+    <text x="395" y="525" text-anchor="middle" dominant-baseline="central">Emissa 69<tspan x="395" y="540">SW 13</tspan></text>
+  </g>
+  <g id="SW119" class="svg-stroj">
+    <rect x="460" y="500" width="110" height="60" />
+    <text x="515" y="525" text-anchor="middle" dominant-baseline="central">SW 119<tspan x="515" y="540">Emissa 65</tspan></text>
+  </g>
+  <g id="EMISSA_53" class="svg-stroj">
+    <rect x="340" y="570" width="110" height="60" />
+    <text x="395" y="595" text-anchor="middle" dominant-baseline="central">Emissa 53<tspan x="395" y="610">Vigel 28</tspan></text>
+  </g>
+  <g id="SW6" class="svg-stroj">
+    <rect x="460" y="570" width="110" height="60" />
+    <text x="515" y="595" text-anchor="middle" dominant-baseline="central">SW 6<tspan x="515" y="610">Emissa 4</tspan></text>
+  </g>
+  <g id="EMISSA_57" class="svg-stroj">
+    <rect x="340" y="640" width="110" height="60" />
+    <text x="395" y="665" text-anchor="middle" dominant-baseline="central">Emissa 57<tspan x="395" y="680">Vigel 29</tspan></text>
+  </g>
+  <g id="SW120" class="svg-stroj">
+    <rect x="460" y="640" width="110" height="60" />
+    <text x="515" y="665" text-anchor="middle" dominant-baseline="central">SW 120<tspan x="515" y="680">Emissa 50</tspan></text>
+  </g>
+  <g id="SW52" class="svg-stroj">
+    <rect x="340" y="710" width="110" height="60" />
+    <text x="395" y="735" text-anchor="middle" dominant-baseline="central">SW 52<tspan x="395" y="750">Emissa 62</tspan></text>
+  </g>
+  <g id="SW88" class="svg-stroj">
+    <rect x="460" y="710" width="110" height="60" />
+    <text x="515" y="735" text-anchor="middle" dominant-baseline="central">SW 88<tspan x="515" y="750">Emissa 43</tspan></text>
+  </g>
+  <g id="SW33" class="svg-stroj">
+    <rect x="340" y="780" width="110" height="60" />
+    <text x="395" y="805" text-anchor="middle" dominant-baseline="central">SW 33<tspan x="395" y="820">Emissa 21</tspan></text>
+  </g>
+  <g id="SW28" class="svg-stroj">
+    <rect x="460" y="780" width="110" height="60" />
+    <text x="515" y="805" text-anchor="middle" dominant-baseline="central">SW 28<tspan x="515" y="820">Emissa 13</tspan></text>
+  </g>
+
+  <!-- PRAVÝ STŘED (Sloupec SW) -->
+  <g id="SW38" class="svg-stroj">
+    <rect x="630" y="240" width="70" height="45" />
+    <text x="665" y="262" text-anchor="middle" dominant-baseline="central">SW 38</text>
+  </g>
+  <g id="SW21" class="svg-stroj">
+    <rect x="630" y="295" width="70" height="45" />
+    <text x="665" y="317" text-anchor="middle" dominant-baseline="central">SW 21</text>
+  </g>
+  <g id="SW36" class="svg-stroj">
+    <rect x="630" y="350" width="70" height="45" />
+    <text x="665" y="372" text-anchor="middle" dominant-baseline="central">SW 36</text>
+  </g>
+  <g id="DBM5" class="svg-stroj">
+    <rect x="640" y="405" width="60" height="45" />
+    <text x="670" y="427" text-anchor="middle" dominant-baseline="central">DBM 5</text>
+  </g>
+  <g id="SW34" class="svg-stroj">
+    <rect x="630" y="460" width="70" height="45" />
+    <text x="665" y="482" text-anchor="middle" dominant-baseline="central">SW 34</text>
+  </g>
+  <g id="SW2023" class="svg-stroj">
+    <rect x="620" y="530" width="90" height="55" />
+    <text x="665" y="557" text-anchor="middle" dominant-baseline="central">SW 20+23</text>
+  </g>
+  <g id="SW2021" class="svg-stroj">
+    <rect x="620" y="605" width="90" height="55" />
+    <text x="665" y="632" text-anchor="middle" dominant-baseline="central">SW 20+21</text>
+  </g>
+
+  <!-- ÚPLNĚ VPRAVO (AUTO a VIGEL) -->
+  <g id="AUTO_EMISSA_35" class="svg-stroj">
+    <rect x="730" y="210" width="80" height="70" />
+    <text x="770" y="240" text-anchor="middle" dominant-baseline="central">AUTO<tspan x="770" y="255">Emissa 35</tspan></text>
+  </g>
+  <g id="AUTO_SW60" class="svg-stroj">
+    <rect x="830" y="210" width="80" height="70" />
+    <text x="870" y="240" text-anchor="middle" dominant-baseline="central">AUTO<tspan x="870" y="255">SW 60</tspan></text>
+  </g>
+  <g id="SW26" class="svg-stroj">
+    <rect x="730" y="290" width="70" height="45" />
+    <text x="765" y="312" text-anchor="middle" dominant-baseline="central">SW 26</text>
+  </g>
+  <g id="SW50" class="svg-stroj">
+    <rect x="830" y="310" width="70" height="45" />
+    <text x="865" y="332" text-anchor="middle" dominant-baseline="central">SW 50</text>
+  </g>
+  <g id="DBM3" class="svg-stroj">
+    <rect x="740" y="345" width="70" height="45" />
+    <text x="775" y="367" text-anchor="middle" dominant-baseline="central">DBM 3</text>
+  </g>
+  <g id="SW27" class="svg-stroj">
+    <rect x="730" y="400" width="70" height="45" />
+    <text x="765" y="422" text-anchor="middle" dominant-baseline="central">SW 27</text>
+  </g>
+  <g id="EMISSA_25" class="svg-stroj">
+    <rect x="830" y="400" width="80" height="60" />
+    <text x="870" y="425" text-anchor="middle" dominant-baseline="central">Emissa<tspan x="870" y="440">25</tspan></text>
+  </g>
+  <g id="VIGEL8" class="svg-stroj">
+    <rect x="830" y="520" width="70" height="45" />
+    <text x="865" y="542" text-anchor="middle" dominant-baseline="central">Vigel 8</text>
+  </g>
+
+  <!-- ========================================== -->
+  <!-- SPODNÍ BLOK (Všechny dříve chybějící stroje) -->
+  <!-- ========================================== -->
+  
+  <g id="VIGEL9" class="svg-stroj">
+    <rect x="720" y="670" width="70" height="45" />
+    <text x="755" y="692" text-anchor="middle" dominant-baseline="central">Vigel 9</text>
+  </g>
+  
+  <g id="VIGEL23" class="svg-stroj">
+    <rect x="810" y="670" width="70" height="45" />
+    <text x="845" y="692" text-anchor="middle" dominant-baseline="central">Vigel 23</text>
+  </g>
+  
+  <g id="JLR_ARM2" class="svg-stroj">
+    <rect x="530" y="660" width="60" height="60" />
+    <text x="560" y="685" text-anchor="middle" dominant-baseline="central">JLR<tspan x="560" y="700">ARM 2</tspan></text>
+  </g>
+  
+  <g id="SW53" class="svg-stroj">
+    <rect x="610" y="680" width="60" height="55" />
+    <text x="640" y="707" text-anchor="middle" dominant-baseline="central">SW 53</text>
+  </g>
+  
+  <g id="EMISSA_3" class="svg-stroj">
+    <rect x="685" y="705" width="60" height="55" />
+    <text x="715" y="725" text-anchor="middle" dominant-baseline="central">Emissa<tspan x="715" y="740">3</tspan></text>
+  </g>
+  
+  <g id="SW31" class="svg-stroj">
+    <rect x="530" y="740" width="65" height="55" />
+    <text x="562" y="767" text-anchor="middle" dominant-baseline="central">SW 31</text>
+  </g>
+  
+  <g id="SW35" class="svg-stroj">
+    <rect x="610" y="740" width="60" height="55" />
+    <text x="640" y="767" text-anchor="middle" dominant-baseline="central">SW 35</text>
+  </g>
+  
+  <g id="SW48" class="svg-stroj">
+    <rect x="685" y="775" width="50" height="50" />
+    <text x="710" y="800" text-anchor="middle" dominant-baseline="central">SW 48</text>
+  </g>
+  
+  <g id="VIGEL25" class="svg-stroj">
+    <rect x="745" y="740" width="40" height="85" />
+    <text x="765" y="775" text-anchor="middle" dominant-baseline="central">Vigel<tspan x="765" y="790">25</tspan></text>
+  </g>
+  
+  <g id="VIGEL24" class="svg-stroj">
+    <rect x="795" y="740" width="40" height="85" />
+    <text x="815" y="775" text-anchor="middle" dominant-baseline="central">Vigel<tspan x="815" y="790">24</tspan></text>
+  </g>
+  
+  <g id="SW39" class="svg-stroj">
+    <rect x="845" y="740" width="45" height="50" />
+    <text x="867" y="765" text-anchor="middle" dominant-baseline="central">SW 39</text>
+  </g>
+  
+  <g id="SW30" class="svg-stroj">
+    <rect x="900" y="740" width="45" height="50" />
+    <text x="922" y="765" text-anchor="middle" dominant-baseline="central">SW 30</text>
+  </g>
+
+</svg>
